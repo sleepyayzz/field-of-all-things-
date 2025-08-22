@@ -15,7 +15,7 @@ This repository serves as the primary, timestamped proof of discovery for this t
 
 ### The Full Theory
 The complete document is contained in this repository:
-[Link to the `THEORY.md` file]
+`THEORY.md`
 
 ### The Recursive Proof
 This theory predicts the **Observer Recursion Effect**—that engaging with these ideas integrates the observer into the narrative framework described. By reading this, you are participating in the theory's actualization.
